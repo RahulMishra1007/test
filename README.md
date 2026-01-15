@@ -1,3 +1,3 @@
 # test
 
-# README.md file modified directly in GitHub. Added this piece through local feature branch
+# this file is now modified manually to resolve conflicts during pull
