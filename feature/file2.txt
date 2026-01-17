@@ -1,3 +1,5 @@
-created another file in feature folder from github
+this line is replaced in feature-2 branch
 
 modified the file in local feature-1 branch through VS Code
+
+this line was added in feature-2 branch
